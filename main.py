@@ -9,7 +9,7 @@ import logging
 import datetime
 import sqlite3
 
-API_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+API_TOKEN = 'Y7303278607:AAFQKNofbQWqHvfLW2puDQzoH2G3i-mwh3k'
 ADMIN_ID = 123456789  # замените на ваш Telegram ID
 
 logging.basicConfig(level=logging.INFO)
